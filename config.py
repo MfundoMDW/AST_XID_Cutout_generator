@@ -1,0 +1,6 @@
+DEFAULT_SRC_LIST = "/path/to/your/radio_source_list.csv"
+DEFAULT_MULTI_LAMBDA="path/to/your/counterparts.csv"
+DEFAULT_REGION_FILE = "/path/to/your/background_image_region_file.reg"
+DEFAULT_CUTOUTS_DIR = "/path/to/save/Cutouts/"
+DEFAULT_BACKGROUND_FITS = "/path/to/your/background_image.fits"
+DEFAULT_RADIO_FITS = "/path/to/your/radio_image.fits"
