@@ -4,6 +4,4 @@ matplotlib
 astropy
 regions
 streamlit
-tempfile
-multiprocessing
 aplpy
