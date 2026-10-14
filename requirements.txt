@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+astropy
+regions
+streamlit
+tempfile
+multiprocessing
+aplpy
