@@ -177,7 +177,7 @@ with tab_pipeline:
 
 with tab_xid:
     st.header("🎯 XID Cross-Match Review Module")
-    st.markdown("Interactive classification tool styled after your `XMATCHIT` notebook pipeline.")
+    st.markdown("Interactive vissual radio-multiwavelenght data crossmatching pipeline.")
     
     classifier_name = st.text_input("Classifier Initials", value="Mfu")
     output_dat_file = st.text_input("Output Batch Log File", value="Batch00MFU.dat")
